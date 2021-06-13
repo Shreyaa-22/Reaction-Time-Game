@@ -1,0 +1,36 @@
+h1{
+text-align: center;
+margin-top: 10px;
+font-family: Georgia, serif;}
+
+.intro{
+text-align: center;
+text-transform: italic;
+color: #1a1a2b;
+}
+
+
+#display{
+
+padding: 30px;
+width: 800px;
+margin: auto;
+
+}
+
+#shapes{
+position:relative;
+display: none;
+}
+
+#start{
+	width: 80px;
+	height: 40px;
+	text-align: center;
+	display: inline-block;
+	font-size: 13px;
+	background-color: Black;
+	color: white;
+	cursor: pointer;
+}
+
